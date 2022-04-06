@@ -1,0 +1,14 @@
+by/epam/tr/entity/Note.java
+ by.epam.tr.entity.Note
+by/epam/tr/port/UseNotebook.java
+ by.epam.tr.port.UseNotebook
+by/epam/tr/view/View.java
+ by.epam.tr.view.View
+by/epam/tr/configuration/Configuration.java
+ by.epam.tr.configuration.Configuration
+by/epam/tr/use/UseNotebookImpl.java
+ by.epam.tr.use.UseNotebookImpl
+by/epam/tr/main/Main.java
+ by.epam.tr.main.Main
+by/epam/tr/entity/Notebook.java
+ by.epam.tr.entity.Notebook
